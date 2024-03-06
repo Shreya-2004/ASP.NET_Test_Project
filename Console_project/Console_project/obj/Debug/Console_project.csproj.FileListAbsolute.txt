@@ -1,0 +1,7 @@
+C:\Users\shrey\Desktop\shreya\ASP.Net Project\Console_project\Console_project\bin\Debug\Console_project.exe.config
+C:\Users\shrey\Desktop\shreya\ASP.Net Project\Console_project\Console_project\bin\Debug\Console_project.exe
+C:\Users\shrey\Desktop\shreya\ASP.Net Project\Console_project\Console_project\bin\Debug\Console_project.pdb
+C:\Users\shrey\Desktop\shreya\ASP.Net Project\Console_project\Console_project\obj\Debug\Console_project.csproj.AssemblyReference.cache
+C:\Users\shrey\Desktop\shreya\ASP.Net Project\Console_project\Console_project\obj\Debug\Console_project.csproj.CoreCompileInputs.cache
+C:\Users\shrey\Desktop\shreya\ASP.Net Project\Console_project\Console_project\obj\Debug\Console_project.exe
+C:\Users\shrey\Desktop\shreya\ASP.Net Project\Console_project\Console_project\obj\Debug\Console_project.pdb
